@@ -83,8 +83,8 @@ def binary_search(arr, target):
 
 if __name__ == '__main__':
     # Generación de una lista aleatoria de números sin repeticiones
-    size = 1000
-    datos = random.sample(range(1, 10000), size)
+    size = 10000
+    datos = random.sample(range(1, 100000), size)
     
     # Listas para aplicar los diferentes ordenamientos
     datos_bubble = list(datos)
