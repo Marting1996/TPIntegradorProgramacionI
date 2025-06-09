@@ -42,4 +42,7 @@ No requiere librerías externas adicionales; se utiliza la biblioteca estándar.
 
 
 ## Link Video a YouTube
-https://youtu.be/AfSAGHolOyQ
+https://www.youtube.com/watch?v=0-UorN0ewGE
+
+## Carpeta Digital
+https://drive.google.com/drive/folders/14Ylqpyfw3UzIAQ44n1e6IO3aUhBc23_B?usp=sharing
